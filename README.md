@@ -1,10 +1,6 @@
-<div align="center">
-
-# 👋 Hey, I'm Sergio Verdugo Rubio
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Sergio%20Verdugo%20&fontSize=40&fontAlignY=35&animation=fadeIn" />
 
 ### 🤖 Machine Learning | ⚽ Football addict | 🌊 Sea & watersports | 🚀 Always learning
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Sergio%20Verdugo%20Rubio&fontSize=40&fontAlignY=35&animation=fadeIn" />
 
 ---
 
