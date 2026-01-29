@@ -65,9 +65,11 @@ When I’m not coding:
 
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: **/in/SergioVerdugoRubio**
-- 🐦 X / Twitter: **@svrubio7**
-- 🎧 Spotify playlists: *only if you like good music*
+💼 LinkedIn: **/in/SergioVerdugoRubio**
+
+🐦 X / Twitter: **@svrubio7**
+
+🎧 Spotify playlists: *only if you like good music*
 
 ---
 
