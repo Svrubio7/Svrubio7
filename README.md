@@ -24,9 +24,11 @@ Glad to meet you and let's connect!
 
 ## 🧪 What You'll Find Here
 
-- 🤖 ML experiments & learning projects  
-- 📊 Data pipelines & backend systems  
-- 🌍 Full-stack apps when I want to ship end-to-end products  
+🤖 ML experiments & learning projects  
+
+📊 Data pipelines & backend systems  
+
+🌍 Full-stack apps when I want to ship end-to-end products  
 
 👉 **github.com/Svrubio7**
 
@@ -35,9 +37,12 @@ Glad to meet you and let's connect!
 ## ⚽ Outside of Code
 
 When I’m not coding:
-- ⚽ Watching or playing **football (the real one)**
-- 🌊 At the sea doing **watersports**
-- 📚 Learning something new just because I can
+
+⚽ Watching or playing **football (the real one)**
+
+🌊 At the sea doing **watersports**
+
+📚 Learning something new just because I can
 
 ---
 
